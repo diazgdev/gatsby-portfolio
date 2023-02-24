@@ -1,12 +1,12 @@
 import React from 'react'
 import Layout from '../components/Layout'
 
-export default function about() {
+export default function page404() {
   return (
     <Layout>
       <div>
-        <h1>About Page</h1>
-        <p>This is the about page</p>
+        <h1>404 Page</h1>
+        <p>Oops!</p>
       </div>
     </Layout>
   )
